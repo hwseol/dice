@@ -6,7 +6,4 @@
 [![시연 영상 바로가기]( https://img.youtube.com/vi/bVhhrhEcuP0/0.jpg )](https://www.youtube.com/shorts/bVhhrhEcuP0)
 
 
-https://www.youtube.com/shorts/bVhhrhEcuP0
-
-
 
