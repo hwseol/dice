@@ -3,5 +3,5 @@
 # 2. 클릭 이벤트 발생 시 토스트 팝업이 주사위의 값을 각가 알려준다.
 
 
-[![시연 영상]](https://youtube.com/shorts/bVhhrhEcuP0?feature=share)
+[[시연 영상]](https://youtube.com/shorts/bVhhrhEcuP0?feature=share)
 
